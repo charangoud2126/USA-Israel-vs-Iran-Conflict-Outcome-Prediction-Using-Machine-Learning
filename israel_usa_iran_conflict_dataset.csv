@@ -1,0 +1,11 @@
+scenario,side_A,side_B,gdp_A_trillion,gdp_B_trillion,defense_budget_A_billion,defense_budget_B_billion,active_personnel_A,active_personnel_B,reserve_personnel_A,reserve_personnel_B,aircraft_A,aircraft_B,tanks_A,tanks_B,naval_assets_A,naval_assets_B,missile_index_A,missile_index_B,drone_index_A,drone_index_B,cyber_capability_A,cyber_capability_B,logistics_score_A,logistics_score_B,allies_A,allies_B,technology_index_A,technology_index_B,nuclear_A,nuclear_B,geography_advantage_A,geography_advantage_B,oil_dependency_A,oil_dependency_B,sanctions_index_A,sanctions_index_B,winner
+1,USA+Israel,Iran,27.0,0.45,930,10,1500000,610000,800000,350000,13600,550,6200,2900,540,101,9,7,8,8,9,7,10,7,35,6,10,6,1,0,7,8,3,8,2,9,1
+2,USA,Iran,26.8,0.45,900,10,1330000,610000,780000,350000,13000,550,4600,2895,490,101,9,7,7,8,9,7,10,7,30,6,10,6,1,0,6,8,3,8,2,9,1
+3,Israel,Iran,0.52,0.45,35,10,170000,610000,465000,350000,600,550,1650,2895,65,101,8,7,8,8,9,7,9,7,15,6,9,6,1,0,7,8,4,8,2,9,1
+4,Iran,Israel,0.45,0.52,10,35,610000,170000,350000,465000,550,600,2895,1650,101,65,7,8,8,8,7,9,7,9,6,15,6,9,0,1,8,7,8,4,9,2,0
+5,USA+Israel,Iran,27.0,0.45,920,11,1480000,620000,790000,360000,13400,570,6100,2950,535,105,9,7,8,8,9,7,10,7,34,7,10,6,1,0,7,8,3,8,2,9,1
+6,USA+Israel,Iran,27.0,0.45,915,12,1470000,630000,785000,365000,13300,580,6050,3000,530,110,9,7,8,8,9,7,10,7,33,7,10,6,1,0,7,8,3,8,2,9,1
+7,USA,Iran,26.8,0.45,905,10,1320000,610000,770000,350000,12900,560,4500,2895,480,101,9,7,7,8,9,7,10,7,30,6,10,6,1,0,6,8,3,8,2,9,1
+8,Israel,Iran,0.52,0.45,36,11,175000,620000,470000,355000,610,560,1700,2950,70,102,8,7,8,8,9,7,9,7,15,6,9,6,1,0,7,8,4,8,2,9,1
+9,USA+Israel,Iran,27.0,0.45,910,10,1460000,610000,780000,350000,13450,550,6050,2895,535,101,9,7,8,8,9,7,10,7,34,6,10,6,1,0,7,8,3,8,2,9,1
+10,Iran,USA,0.45,27.0,10,900,610000,1330000,350000,780000,550,13000,2895,4600,101,490,7,9,8,7,7,9,7,10,6,30,6,10,0,1,8,6,8,3,9,2,0
